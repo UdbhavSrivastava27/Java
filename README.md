@@ -1,2 +1,0 @@
-# Java
-Theory and Programming
